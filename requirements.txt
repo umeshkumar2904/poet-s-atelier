@@ -1,0 +1,8 @@
+groq
+sentence-transformers
+pydantic
+datasets
+chromadb
+python-docx
+streamlit
+python-dotenv
